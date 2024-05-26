@@ -6,11 +6,15 @@
 
 ###
 
-<p align="left">👨‍💻 My portfolio is available at <a href="https://rafaljagielski.pl/">https://rafaljagielski.pl/</a></p>
+<p align="left">👨‍💻 My portfolio is available at: <a href="https://rafaljagielski.pl/">https://rafaljagielski.pl/</a></p>
 
 ###
 
-<p align="left">📬 You can contact me via email <strong>jagielski.rafal.uwm@gmail.com</strong></p>
+<p align="left">💻 My LeetCode profile: <a href="https://leetcode.com/u/rafJagCode">https://leetcode.com/u/rafJagCode</a></p>
+
+###
+
+<p align="left">📬 You can contact me via email: <strong>jagielski.rafal.uwm@gmail.com</strong></p>
 
 ###
 
@@ -18,7 +22,7 @@
 
 ###
 
-<p align="left">📅 I'm dabbing in programming since 2010<br>📚 I graduated in Software Engineering from the University of Warmia and Mazury<br>🎯 My primary goal is to refine my skills in professional commercial programming. I want to learn the best practices and industry standards<br>⚽ When I'm not coding, you can find me practicing Muay Thai or diving into a good sci-fi book</p>
+<p align="left">📅 I'm dabbing in programming since 2010<br>📚 I graduated in Software Engineering from the University of Warmia and Mazury<br>🎯 My primary goal is to refine my skills in professional commercial programming, to learn the best practices and industry standards<br>⚽ When I'm not coding, you can find me practicing Muay Thai or diving into a good sci-fi book</p>
 
 ###
 
