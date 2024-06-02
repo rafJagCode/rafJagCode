@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">📅 I'm dabbing in programming since 2010<br>📚 I graduated in Software Engineering from the University of Warmia and Mazury<br>🎯 My primary goal is to refine my skills in professional commercial programming, to learn the best practices and industry standards<br>⚽ When I'm not coding, you can find me practicing Muay Thai or diving into a good sci-fi book</p>
+<p align="left">📅 I'm dabbing in programming since 2010<br>📚 I graduated in Software Engineering from the University of Warmia and Mazury<br>🎯 My current goal is to learn the best programming practices and industry standards<br>⚽ When I'm not coding, you can find me practicing Muay Thai or diving into a good sci-fi book</p>
 
 ###
 
