@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Rafał and I'm a web developer, from <img src="https://github.com/rafJagCode/tech_icons/blob/main/poland-flag.png?raw=true" width="35" height="35" align="top"/> Poland.</h2>
+<h2 align="left">My name is Rafał and I'm a fullstack developer, from <img src="https://github.com/rafJagCode/tech_icons/blob/main/poland-flag.png?raw=true" width="35" height="35" align="top"/> Poland.</h2>
 
 ###
 
